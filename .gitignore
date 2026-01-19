@@ -1,0 +1,6 @@
+# Ignore sensitive files
+transcript-file.webm
+*.pdf
+*.txt
+.env
+slides/
